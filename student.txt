@@ -1,0 +1,18 @@
+RollNo : 20
+Name : Abrar
+Age  : 18
+Marks : 90
+Grade : A
+
+RollNo : 22
+Name : Taha
+Age  : 18
+Marks : 97
+Grade : A+
+
+RollNo : 56
+Name : Safiullah
+Age  : 18
+Marks : 89
+Grade : B
+
